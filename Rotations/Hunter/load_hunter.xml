@@ -1,0 +1,5 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Script file="lunaeclipse_beastmastery.lua"/>
+    <Script file="huntsthewind_marksmanship.lua"/>
+    <Script file="lunaeclipse_survival.lua"/>
+</Ui>

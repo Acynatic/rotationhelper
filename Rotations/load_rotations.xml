@@ -1,0 +1,14 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Include file="DeathKnight\load_deathknight.xml"/>
+    <Include file="DemonHunter\load_demonhunter.xml"/>
+    <Include file="Druid\load_druid.xml"/>
+    <Include file="Hunter\load_hunter.xml"/>
+    <Include file="Mage\load_mage.xml"/>
+    <Include file="Monk\load_monk.xml"/>
+    <Include file="Paladin\load_paladin.xml"/>
+    <Include file="Priest\load_priest.xml"/>
+    <Include file="Rogue\load_rogue.xml"/>
+    <Include file="Shaman\load_shaman.xml"/>
+    <Include file="Warlock\load_warlock.xml"/>
+    <Include file="Warrior\load_warrior.xml"/>
+</Ui>

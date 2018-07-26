@@ -1,0 +1,4 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+    <Script file="lunaeclipse_frost.lua"/>
+    <Script file="lunaeclipse_unholy.lua"/>
+</Ui>
